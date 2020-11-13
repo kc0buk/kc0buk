@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⌨️ Python | Java
 - 🌐 JavaScript | React | Redux | HTML | CSS | Bootstrap | Material-UI | Styled-Components
 - 🛢 PostgreSQL
-- 🌎 Heroku | Vercel | Netlify
+- 🌎 AWS | Heroku | Vercel | Netlify
 - 🔧 Visual Studio Code | PyCharm | IntelliJ IDEA | Git
 - 🖥 Adobe Xd | Illustrator | Photoshop | Whimsical
 
