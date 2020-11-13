@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi there, I'm Jeremiah! 👋</h2>
 
 <!--
 **kc0buk/kc0buk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://images.pexels.com/photos/1267359/pexels-photo-1267359.jpeg?cs=srgb&dl=pexels-elevate-1267359.jpg&fm=jpg" style="width: 40%" alt="barrels aging"/>
+ 
+ 
+ <h3>👨🏻‍💻 About Me</h3>
+ 
+- 💻 Full-Stack Developer
+- 🤔 Currently beefing up my skills in Python, Node and Java
+- 🎓 Studying Computer Science and algorithms
+- 🚙 Autonomous vehicle enthusist
+- 🏫 Recently completed Lambda School's Full Stack Web program
+- 🐕 I have two dogs, a Black Lab and Chihuahua
+- 🍺 Big fermentation nerd!
+
+<h3>🛠 Tech Stack</h3>
+
+- ⌨️ Python | Java
+- 🌐 JavaScript | React | Redux | HTML | CSS | Bootstrap | Material-UI | Styled-Components
+- 🛢 PostgreSQL
+- 🌎 Heroku | Vercel | Netlify
+- 🔧 Visual Studio Code | PyCharm | IntelliJ IDEA | Git
+- 🖥 Adobe Xd | Illustrator | Photoshop | Whimsical
+
+<h3>🤝 Connect With Me</h3>
+
+- [LinkedIn] (https://www.linkedin.com/in/jeremiahtrnka/)
+- [Searchlight Profile] (https://my.searchlight.ai/jeremiah-trnka)
