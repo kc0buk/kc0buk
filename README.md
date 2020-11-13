@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://images.pexels.com/photos/1267359/pexels-photo-1267359.jpeg?cs=srgb&dl=pexels-elevate-1267359.jpg&fm=jpg" style="width: 40%" alt="barrels aging"/>
- <br>
+<img align="right" src="https://images.pexels.com/photos/1267359/pexels-photo-1267359.jpeg?cs=srgb&dl=pexels-elevate-1267359.jpg&fm=jpg" style="width: 300" alt="barrels aging"/>
+ &nbsp;
+ &nbsp;
+ &nbsp;
  
  <h3>👨🏻‍💻 About Me</h3>
  
