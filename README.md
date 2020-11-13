@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://images.pexels.com/photos/1267359/pexels-photo-1267359.jpeg?cs=srgb&dl=pexels-elevate-1267359.jpg&fm=jpg" style="width: 300" alt="barrels aging"/>
+<img align="right" src="https://images.pexels.com/photos/1267359/pexels-photo-1267359.jpeg?cs=srgb&dl=pexels-elevate-1267359.jpg&fm=jpg" style="width: 25%" alt="barrels aging"/>
  &nbsp;
  &nbsp;
  &nbsp;
  
  <h3>👨🏻‍💻 About Me</h3>
  
-- 💻 Full-Stack Developer
+- 💻 Full-Stack Software Engineer
 - 🤔 Currently beefing up my skills in Python, Node and Java
 - 🎓 Studying Computer Science and algorithms
 - 🚙 Autonomous vehicle enthusist
