@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 
 - [LinkedIn] (https://www.linkedin.com/in/jeremiahtrnka/)
 - [Searchlight Profile] (https://my.searchlight.ai/jeremiah-trnka)
+- [Blog] (http://kc0buk.medium.com)
